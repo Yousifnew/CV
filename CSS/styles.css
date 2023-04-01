@@ -1,0 +1,9 @@
+body {
+    background-color: rgb(195, 241, 241);
+  }
+  hr {background-color: rgb(195, 241, 241);
+     border-style:dotted none none;
+     border-color: rgba(141, 141, 141, 0.379);
+     border-width: 5px;
+     width: 5%;
+  }
