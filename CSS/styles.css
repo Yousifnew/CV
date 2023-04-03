@@ -1,9 +1,45 @@
 body {
-    background-color: rgb(195, 241, 241);
+    background-color: rgb(224, 241, 241);
+    font-size: xx-large;
   }
-  hr {background-color: rgb(195, 241, 241);
+
+  hr {background-color: rgb(224, 241, 241);
      border-style:dotted none none;
      border-color: rgba(141, 141, 141, 0.379);
-     border-width: 5px;
+     border-width: 10px;
      width: 5%;
   }
+
+  h1 {
+      color: #66BFBF;
+    }
+
+  h3 {
+      color: #66BFBF;
+    }
+
+  th {
+    color: #66BFBF;
+}
+
+
+  img {
+    border-color: rgba(112, 128, 144, 0.526);
+    border-style:solid;
+    border-radius: 200px;
+    border-width: 10px;
+    width: 300px;
+    background-color: rgba(32, 218, 122, 0.629);
+}
+
+a {
+    margin: 1rem;
+    color: hotpink;
+}
+/*************************************************CLASS SELCTORS********************************************************************/
+.my-pic {border-color: rgba(112, 128, 144, 0.526);
+    border-style:solid;
+    border-radius: 200px;
+    border-width: 10px;
+    width: 300px;
+    background-color: white;}
